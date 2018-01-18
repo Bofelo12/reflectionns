@@ -1,0 +1,11 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By seeing variables changed this help identify names of variable in the new file and where they are introduced
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You can refer to the changes you made and whether if some necessary or not and where your program could be improved
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
